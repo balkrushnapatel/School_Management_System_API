@@ -46,3 +46,6 @@ public class TimetableController : ControllerBase
         return Ok(id);
     }
 }
+
+
+// New TimeTable For New Addmission Students is made
