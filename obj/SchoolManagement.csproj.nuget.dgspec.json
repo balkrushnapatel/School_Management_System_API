@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\SchoolManagement.csproj": {}
+    "E:\\OneDrive\\Desktop\\School_Management_System_API\\SchoolManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\SchoolManagement.csproj": {
+    "E:\\OneDrive\\Desktop\\School_Management_System_API\\SchoolManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\SchoolManagement.csproj",
+        "projectUniqueName": "E:\\OneDrive\\Desktop\\School_Management_System_API\\SchoolManagement.csproj",
         "projectName": "SchoolManagement",
-        "projectPath": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\SchoolManagement.csproj",
-        "packagesPath": "C:\\Users\\patel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\obj\\",
+        "projectPath": "E:\\OneDrive\\Desktop\\School_Management_System_API\\SchoolManagement.csproj",
+        "packagesPath": "C:\\Users\\karsh\\.nuget\\packages\\",
+        "outputPath": "E:\\OneDrive\\Desktop\\School_Management_System_API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\karsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

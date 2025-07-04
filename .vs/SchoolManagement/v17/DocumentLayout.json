@@ -1,73 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\",
+  "WorkspaceRootPath": "E:\\OneDrive\\Desktop\\School_Management_System_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Models\\SchoolManagementSystemContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\SchoolManagementSystemContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|c:\\users\\patel\\onedrive\\desktop\\sem 5\\advanced .net labs\\schoolmanagement\\models\\classwisestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|solutionrelative:models\\classwisestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|c:\\users\\patel\\onedrive\\desktop\\sem 5\\advanced .net labs\\schoolmanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|c:\\users\\patel\\onedrive\\desktop\\sem 5\\advanced .net labs\\schoolmanagement\\controllers\\trustcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|solutionrelative:controllers\\trustcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|c:\\users\\patel\\onedrive\\desktop\\sem 5\\advanced .net labs\\schoolmanagement\\controllers\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|e:\\onedrive\\desktop\\school_management_system_api\\controllers\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|solutionrelative:controllers\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|c:\\users\\patel\\onedrive\\desktop\\sem 5\\advanced .net labs\\schoolmanagement\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|e:\\onedrive\\desktop\\school_management_system_api\\models\\schoolmanagementsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|solutionrelative:models\\schoolmanagementsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|e:\\onedrive\\desktop\\school_management_system_api\\models\\classwisestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|solutionrelative:models\\classwisestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|e:\\onedrive\\desktop\\school_management_system_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|e:\\onedrive\\desktop\\school_management_system_api\\controllers\\trustcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|solutionrelative:controllers\\trustcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|e:\\onedrive\\desktop\\school_management_system_api\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|solutionrelative:controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|c:\\users\\patel\\onedrive\\desktop\\sem 5\\advanced .net labs\\schoolmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|e:\\onedrive\\desktop\\school_management_system_api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|c:\\users\\patel\\onedrive\\desktop\\sem 5\\advanced .net labs\\schoolmanagement\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|e:\\onedrive\\desktop\\school_management_system_api\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|solutionrelative:controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|c:\\users\\patel\\onedrive\\desktop\\sem 5\\advanced .net labs\\schoolmanagement\\controllers\\schoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|e:\\onedrive\\desktop\\school_management_system_api\\controllers\\schoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|solutionrelative:controllers\\schoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|c:\\users\\patel\\onedrive\\desktop\\sem 5\\advanced .net labs\\schoolmanagement\\controllers\\masterclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|e:\\onedrive\\desktop\\school_management_system_api\\controllers\\masterclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|solutionrelative:controllers\\masterclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|c:\\users\\patel\\onedrive\\desktop\\sem 5\\advanced .net labs\\schoolmanagement\\controllers\\facultysubjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|e:\\onedrive\\desktop\\school_management_system_api\\controllers\\facultysubjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|solutionrelative:controllers\\facultysubjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|c:\\users\\patel\\onedrive\\desktop\\sem 5\\advanced .net labs\\schoolmanagement\\controllers\\classwisestudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|e:\\onedrive\\desktop\\school_management_system_api\\controllers\\classwisestudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|solutionrelative:controllers\\classwisestudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|c:\\users\\patel\\onedrive\\desktop\\sem 5\\advanced .net labs\\schoolmanagement\\controllers\\classsubjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|e:\\onedrive\\desktop\\school_management_system_api\\controllers\\classsubjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|solutionrelative:controllers\\classsubjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|c:\\users\\patel\\onedrive\\desktop\\sem 5\\advanced .net labs\\schoolmanagement\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|e:\\onedrive\\desktop\\school_management_system_api\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|solutionrelative:controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|c:\\users\\patel\\onedrive\\desktop\\sem 5\\advanced .net labs\\schoolmanagement\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|e:\\onedrive\\desktop\\school_management_system_api\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|solutionrelative:controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|c:\\users\\patel\\onedrive\\desktop\\sem 5\\advanced .net labs\\schoolmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|e:\\onedrive\\desktop\\school_management_system_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|c:\\users\\patel\\onedrive\\desktop\\sem 5\\advanced .net labs\\schoolmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|e:\\onedrive\\desktop\\school_management_system_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6238F607-F7ED-4906-94BC-66C5EDD4D2C3}|SchoolManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -78,15 +78,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SchoolManagementSystemContext.cs",
-              "DocumentMoniker": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Models\\SchoolManagementSystemContext.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Models\\SchoolManagementSystemContext.cs",
               "RelativeDocumentMoniker": "Models\\SchoolManagementSystemContext.cs",
-              "ToolTip": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Models\\SchoolManagementSystemContext.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Models\\SchoolManagementSystemContext.cs",
               "RelativeToolTip": "Models\\SchoolManagementSystemContext.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAAAwwFsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,212 +95,201 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SubjectController.cs",
-              "DocumentMoniker": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\SubjectController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SubjectController.cs",
-              "ToolTip": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\SubjectController.cs",
-              "RelativeToolTip": "Controllers\\SubjectController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAwCYAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T02:36:20.168Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SubjectController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "Controllers\\SubjectController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwCYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T02:36:20.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "TimetableController.cs",
-              "DocumentMoniker": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\TimetableController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\TimetableController.cs",
               "RelativeDocumentMoniker": "Controllers\\TimetableController.cs",
-              "ToolTip": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\TimetableController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\TimetableController.cs",
               "RelativeToolTip": "Controllers\\TimetableController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCsAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwDIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T02:37:24.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TrustController.cs",
-              "DocumentMoniker": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\TrustController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\TrustController.cs",
               "RelativeDocumentMoniker": "Controllers\\TrustController.cs",
-              "ToolTip": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\TrustController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\TrustController.cs",
               "RelativeToolTip": "Controllers\\TrustController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAA2wDQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T02:34:25.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T02:34:25.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T02:35:38.332Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T02:35:38.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "ClassWiseStudent.cs",
-              "DocumentMoniker": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Models\\ClassWiseStudent.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Models\\ClassWiseStudent.cs",
               "RelativeDocumentMoniker": "Models\\ClassWiseStudent.cs",
-              "ToolTip": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Models\\ClassWiseStudent.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Models\\ClassWiseStudent.cs",
               "RelativeToolTip": "Models\\ClassWiseStudent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T02:56:13.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T02:56:13.018Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Controllers\\StudentController.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAA1wCwAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T02:36:05.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T02:36:05.881Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "StaffController.cs",
-              "DocumentMoniker": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\StaffController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\StaffController.cs",
               "RelativeDocumentMoniker": "Controllers\\StaffController.cs",
-              "ToolTip": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\StaffController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\StaffController.cs",
               "RelativeToolTip": "Controllers\\StaffController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T02:35:54.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T02:35:54.042Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "SchoolController.cs",
-              "DocumentMoniker": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\SchoolController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\SchoolController.cs",
               "RelativeDocumentMoniker": "Controllers\\SchoolController.cs",
-              "ToolTip": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\SchoolController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\SchoolController.cs",
               "RelativeToolTip": "Controllers\\SchoolController.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwCYAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T02:34:54.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T02:34:54.283Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "MasterClassController.cs",
-              "DocumentMoniker": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\MasterClassController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\MasterClassController.cs",
               "RelativeDocumentMoniker": "Controllers\\MasterClassController.cs",
-              "ToolTip": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\MasterClassController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\MasterClassController.cs",
               "RelativeToolTip": "Controllers\\MasterClassController.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAAwB4AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T02:35:09.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T02:35:09.827Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "FacultySubjectController.cs",
-              "DocumentMoniker": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\FacultySubjectController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\FacultySubjectController.cs",
               "RelativeDocumentMoniker": "Controllers\\FacultySubjectController.cs",
-              "ToolTip": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\FacultySubjectController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\FacultySubjectController.cs",
               "RelativeToolTip": "Controllers\\FacultySubjectController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAB6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T02:36:46.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T02:36:46.958Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "ClassWiseStudentController.cs",
-              "DocumentMoniker": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\ClassWiseStudentController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\ClassWiseStudentController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClassWiseStudentController.cs",
-              "ToolTip": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\ClassWiseStudentController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\ClassWiseStudentController.cs",
               "RelativeToolTip": "Controllers\\ClassWiseStudentController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAACAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T02:37:01.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T02:37:01.161Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "ClassSubjectController.cs",
-              "DocumentMoniker": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\ClassSubjectController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\ClassSubjectController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClassSubjectController.cs",
-              "ToolTip": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\ClassSubjectController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\ClassSubjectController.cs",
               "RelativeToolTip": "Controllers\\ClassSubjectController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAmwDEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T02:36:32.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T02:36:32.016Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "ClassController.cs",
-              "DocumentMoniker": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\ClassController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\ClassController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClassController.cs",
-              "ToolTip": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\ClassController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\ClassController.cs",
               "RelativeToolTip": "Controllers\\ClassController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T02:35:23.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T02:35:23.705Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "AttendanceController.cs",
-              "DocumentMoniker": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\AttendanceController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\AttendanceController.cs",
               "RelativeDocumentMoniker": "Controllers\\AttendanceController.cs",
-              "ToolTip": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Controllers\\AttendanceController.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Controllers\\AttendanceController.cs",
               "RelativeToolTip": "Controllers\\AttendanceController.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAmwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T02:37:13.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T02:37:13.159Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Program.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\Program.cs",
+              "ToolTip": "E:\\OneDrive\\Desktop\\School_Management_System_API\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T02:46:14.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T02:46:14.831Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\appsettings.json",
+              "DocumentMoniker": "E:\\OneDrive\\Desktop\\School_Management_System_API\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\patel\\OneDrive\\Desktop\\SEM 5\\ADVANCED .NET LABS\\SchoolManagement\\appsettings.json",
+              "ToolTip": "E:\\OneDrive\\Desktop\\School_Management_System_API\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-04T02:46:55.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T02:46:55.318Z"
             }
           ]
         }
